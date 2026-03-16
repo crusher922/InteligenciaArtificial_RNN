@@ -1,24 +1,78 @@
-# Traductor pequeño con RNN (Encoder-Decoder)
+# RNN Traductor
 
-Este proyecto implementa un ejemplo simple de traducción automática usando una red neuronal recurrente (RNN) con arquitectura Encoder-Decoder basada en LSTM.
+Este proyecto implementa un ejemplo básico de un **traductor de texto** entrenado con una **Red Neuronal Recurrente (RNN)** usando TensorFlow y Keras.  
+El modelo aprende a traducir frases simples de **inglés a español** a partir de un conjunto de pares de traducción almacenados en formato JSON.
+
+Además del entrenamiento y la predicción, el proyecto incluye:
+
+- guardado de modelo y tokenizadores
+- registro de logs de entrenamiento y errores
+- historial de entrenamiento en CSV
+- evaluación automática del modelo
+- generación de gráficas
+- dashboard HTML con métricas, logs e imágenes
+
+---
 
 ## Estructura del proyecto
 
-- `train_translation.py`: entrena el modelo de traducción.
-- `predict_translation.py`: carga el modelo entrenado y traduce frases.
-- `requirements.txt`: librerías necesarias.
-
-## Requisitos
-
-- Python 3.10 o 3.11 recomendado
-- PyCharm o terminal
-- Entorno virtual recomendado
-
+```text
+rnn_traductor/
+│
+├── data/
+│   └── translation_pairs.json
+│
+├── logs/
+│   ├── training.log
+│   ├── errors.log
+│   ├── training_history.csv
+│   ├── evaluation_summary.json
+│   ├── evaluation_predictions.csv
+│   └── plots/
+│
+├── models/
+│   ├── translation_model.keras
+│   ├── input_tokenizer.pkl
+│   ├── target_tokenizer.pkl
+│   ├── translation_metadata.json
+│   └── checkpoints/
+│
+├── train_translation.py
+├── evaluate_translation.py
+├── predict_translation.py
+├── plot_results.py
+├── generate_dashboard.py
+├── requirements.txt
+└── README.md
+```
 ## Instalación
+#bash
 
-### 1. Crear entorno virtual
-En Windows:
-
-```bash
 python -m venv venv
+
 venv\Scripts\activate
+
+pip install -r requirements.txt
+
+## Entrenar el modelo
+
+python train_translation.py
+
+## Evaluar el modelo entrenado
+
+python evaluate_translation.py
+
+## Generar imágenes de resultados
+
+python plot_results.py
+
+## Generar el dashboard HTML
+
+python generate_dashboard.py
+
+## Probar traducciones manualmente
+
+python predict_translation.py
+
+
+

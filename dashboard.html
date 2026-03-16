@@ -1,0 +1,264 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard - Traductor RNN</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f4f6f9;
+            color: #222;
+        }
+        header {
+            background: #1f2937;
+            color: white;
+            padding: 24px;
+            text-align: center;
+        }
+        main {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+        .section {
+            background: white;
+            margin-bottom: 24px;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+        }
+        .metrics {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 16px;
+        }
+        .card {
+            background: #eef2ff;
+            padding: 16px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        .card h3 {
+            margin: 0 0 10px;
+            font-size: 16px;
+        }
+        .card p {
+            font-size: 24px;
+            font-weight: bold;
+            margin: 0;
+        }
+        .plots {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 16px;
+        }
+        .plot-card {
+            background: #fafafa;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            padding: 12px;
+        }
+        .plot-card img {
+            width: 100%;
+            border-radius: 8px;
+        }
+        pre {
+            background: #111827;
+            color: #e5e7eb;
+            padding: 16px;
+            border-radius: 8px;
+            overflow-x: auto;
+            white-space: pre-wrap;
+        }
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 16px;
+        }
+        .table th, .table td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            font-size: 14px;
+        }
+        .table th {
+            background: #f3f4f6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Dashboard del Traductor RNN</h1>
+        <p>Entrenamiento, evaluación, logs y visualizaciones</p>
+    </header>
+
+    <main>
+        <section class="section">
+            <h2>Métricas de evaluación</h2>
+            
+        <div class="metrics">
+            <div class="card"><h3>Muestras evaluadas</h3><p>200</p></div>
+            <div class="card"><h3>Exact Match</h3><p>0.5900</p></div>
+            <div class="card"><h3>BLEU promedio</h3><p>0.5254</p></div>
+            <div class="card"><h3>Token Accuracy</h3><p>0.8531</p></div>
+        </div>
+        
+        </section>
+
+        <section class="section">
+            <h2>Gráficas</h2>
+            <div class="plots">
+                
+        <div class="plot-card">
+            <h4>accuracy_curve.png</h4>
+            <img src="logs/plots/accuracy_curve.png" alt="accuracy_curve.png">
+        </div>
+        
+        <div class="plot-card">
+            <h4>bleu_distribution.png</h4>
+            <img src="logs/plots/bleu_distribution.png" alt="bleu_distribution.png">
+        </div>
+        
+        <div class="plot-card">
+            <h4>evaluation_metrics.png</h4>
+            <img src="logs/plots/evaluation_metrics.png" alt="evaluation_metrics.png">
+        </div>
+        
+        <div class="plot-card">
+            <h4>loss_curve.png</h4>
+            <img src="logs/plots/loss_curve.png" alt="loss_curve.png">
+        </div>
+        
+        <div class="plot-card">
+            <h4>prediction_quality.png</h4>
+            <img src="logs/plots/prediction_quality.png" alt="prediction_quality.png">
+        </div>
+        
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>Vista previa de predicciones</h2>
+            <table class="dataframe table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>source</th>
+      <th>expected</th>
+      <th>predicted</th>
+      <th>exact_match</th>
+      <th>bleu_score</th>
+      <th>token_accuracy</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>voy a la hospital</td>
+      <td>i go to the hospital</td>
+      <td>i go to the market</td>
+      <td>0</td>
+      <td>0.668740</td>
+      <td>0.800000</td>
+    </tr>
+    <tr>
+      <td>veo diez perros</td>
+      <td>i see ten dogs</td>
+      <td>i see eight dogs</td>
+      <td>0</td>
+      <td>0.188030</td>
+      <td>0.750000</td>
+    </tr>
+    <tr>
+      <td>hace frío</td>
+      <td>it is cold</td>
+      <td>it is windy</td>
+      <td>0</td>
+      <td>0.240281</td>
+      <td>0.666667</td>
+    </tr>
+    <tr>
+      <td>escribo un correo temprano</td>
+      <td>i write an email early</td>
+      <td>i write an email yesterday</td>
+      <td>0</td>
+      <td>0.668740</td>
+      <td>0.800000</td>
+    </tr>
+    <tr>
+      <td>ellos corro pollo</td>
+      <td>they run chicken</td>
+      <td>they run chicken</td>
+      <td>1</td>
+      <td>0.562341</td>
+      <td>1.000000</td>
+    </tr>
+    <tr>
+      <td>mi hermana bebe</td>
+      <td>my sister drinks</td>
+      <td>my friend reads</td>
+      <td>0</td>
+      <td>0.113622</td>
+      <td>0.333333</td>
+    </tr>
+    <tr>
+      <td>regreso a casa ayer</td>
+      <td>i return home yesterday</td>
+      <td>i return home today</td>
+      <td>0</td>
+      <td>0.397635</td>
+      <td>0.750000</td>
+    </tr>
+    <tr>
+      <td>¿dónde está la tienda?</td>
+      <td>where is the store?</td>
+      <td>where is the park?</td>
+      <td>0</td>
+      <td>0.397635</td>
+      <td>0.750000</td>
+    </tr>
+    <tr>
+      <td>ella espero el taxi</td>
+      <td>she wait for the taxi</td>
+      <td>she wait for the bus</td>
+      <td>0</td>
+      <td>0.668740</td>
+      <td>0.800000</td>
+    </tr>
+    <tr>
+      <td>tú camino jugo</td>
+      <td>you walk juice</td>
+      <td>you walk juice</td>
+      <td>1</td>
+      <td>0.562341</td>
+      <td>1.000000</td>
+    </tr>
+  </tbody>
+</table>
+        </section>
+
+        <section class="section">
+            <h2>Últimas líneas de training.log</h2>
+            <pre>2026-03-15 23:54:53,679 - INFO - Iniciando entrenamiento del traductor RNN...
+2026-03-15 23:54:53,679 - INFO - Dataset: /home/francisco/Desarrollo/Python/InteligenciaArtificial/rnn_ejemplo/data/translation_pairs.json
+2026-03-15 23:54:53,679 - INFO - Total de pares cargados: 1000
+2026-03-15 23:54:53,680 - INFO - Cantidad para entrenamiento: 800
+2026-03-15 23:54:53,680 - INFO - Cantidad reservada para prueba: 200
+2026-03-15 23:54:53,688 - INFO - Vocabulario entrada: 268
+2026-03-15 23:54:53,688 - INFO - Vocabulario salida: 253
+2026-03-15 23:54:53,688 - INFO - Longitud máxima entrada: 5
+2026-03-15 23:54:53,688 - INFO - Longitud máxima salida: 8
+2026-03-15 23:55:02,150 - INFO - Entrenamiento finalizado correctamente.
+2026-03-15 23:55:02,150 - INFO - Modelo guardado en: /home/francisco/Desarrollo/Python/InteligenciaArtificial/rnn_ejemplo/models/translation_model.keras
+2026-03-15 23:55:02,150 - INFO - Historial guardado en: /home/francisco/Desarrollo/Python/InteligenciaArtificial/rnn_ejemplo/logs/training_history.csv
+2026-03-15 23:55:02,150 - INFO - Métricas finales: {'final_train_loss': 0.039113499224185944, 'final_train_accuracy': 0.9977259635925293, 'final_val_loss': 0.7592188119888306, 'final_val_accuracy': 0.891032874584198}
+</pre>
+        </section>
+
+        <section class="section">
+            <h2>Últimas líneas de errors.log</h2>
+            <pre></pre>
+        </section>
+    </main>
+</body>
+</html>

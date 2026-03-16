@@ -1,0 +1,4002 @@
+[
+  {
+    "source": "hola",
+    "target": "hello"
+  },
+  {
+    "source": "buenos dias",
+    "target": "good morning"
+  },
+  {
+    "source": "buenas tardes",
+    "target": "good afternoon"
+  },
+  {
+    "source": "buenas noches",
+    "target": "good night"
+  },
+  {
+    "source": "adios",
+    "target": "goodbye"
+  },
+  {
+    "source": "hasta luego",
+    "target": "see you later"
+  },
+  {
+    "source": "por favor",
+    "target": "please"
+  },
+  {
+    "source": "gracias",
+    "target": "thank you"
+  },
+  {
+    "source": "de nada",
+    "target": "you are welcome"
+  },
+  {
+    "source": "mucho gusto",
+    "target": "nice to meet you"
+  },
+  {
+    "source": "lo siento",
+    "target": "i am sorry"
+  },
+  {
+    "source": "permiso",
+    "target": "excuse me"
+  },
+  {
+    "source": "yo como",
+    "target": "i eat"
+  },
+  {
+    "source": "yo como pan",
+    "target": "i eat bread"
+  },
+  {
+    "source": "yo como arroz",
+    "target": "i eat rice"
+  },
+  {
+    "source": "yo como pollo",
+    "target": "i eat chicken"
+  },
+  {
+    "source": "yo como agua",
+    "target": "i eat water"
+  },
+  {
+    "source": "yo como cafe",
+    "target": "i eat coffee"
+  },
+  {
+    "source": "yo como te",
+    "target": "i eat tea"
+  },
+  {
+    "source": "yo como jugo",
+    "target": "i eat juice"
+  },
+  {
+    "source": "yo como sopa",
+    "target": "i eat soup"
+  },
+  {
+    "source": "yo bebo",
+    "target": "i drink"
+  },
+  {
+    "source": "yo bebo pan",
+    "target": "i drink bread"
+  },
+  {
+    "source": "yo bebo arroz",
+    "target": "i drink rice"
+  },
+  {
+    "source": "yo bebo pollo",
+    "target": "i drink chicken"
+  },
+  {
+    "source": "yo bebo agua",
+    "target": "i drink water"
+  },
+  {
+    "source": "yo bebo cafe",
+    "target": "i drink coffee"
+  },
+  {
+    "source": "yo bebo te",
+    "target": "i drink tea"
+  },
+  {
+    "source": "yo bebo jugo",
+    "target": "i drink juice"
+  },
+  {
+    "source": "yo bebo sopa",
+    "target": "i drink soup"
+  },
+  {
+    "source": "yo leo",
+    "target": "i read"
+  },
+  {
+    "source": "yo leo pan",
+    "target": "i read bread"
+  },
+  {
+    "source": "yo leo arroz",
+    "target": "i read rice"
+  },
+  {
+    "source": "yo leo pollo",
+    "target": "i read chicken"
+  },
+  {
+    "source": "yo leo agua",
+    "target": "i read water"
+  },
+  {
+    "source": "yo leo cafe",
+    "target": "i read coffee"
+  },
+  {
+    "source": "yo leo te",
+    "target": "i read tea"
+  },
+  {
+    "source": "yo leo jugo",
+    "target": "i read juice"
+  },
+  {
+    "source": "yo leo sopa",
+    "target": "i read soup"
+  },
+  {
+    "source": "yo escribo",
+    "target": "i write"
+  },
+  {
+    "source": "yo escribo pan",
+    "target": "i write bread"
+  },
+  {
+    "source": "yo escribo arroz",
+    "target": "i write rice"
+  },
+  {
+    "source": "yo escribo pollo",
+    "target": "i write chicken"
+  },
+  {
+    "source": "yo escribo agua",
+    "target": "i write water"
+  },
+  {
+    "source": "yo escribo cafe",
+    "target": "i write coffee"
+  },
+  {
+    "source": "yo escribo te",
+    "target": "i write tea"
+  },
+  {
+    "source": "yo escribo jugo",
+    "target": "i write juice"
+  },
+  {
+    "source": "yo escribo sopa",
+    "target": "i write soup"
+  },
+  {
+    "source": "yo corro",
+    "target": "i run"
+  },
+  {
+    "source": "yo corro pan",
+    "target": "i run bread"
+  },
+  {
+    "source": "yo corro arroz",
+    "target": "i run rice"
+  },
+  {
+    "source": "yo corro pollo",
+    "target": "i run chicken"
+  },
+  {
+    "source": "yo corro agua",
+    "target": "i run water"
+  },
+  {
+    "source": "yo corro cafe",
+    "target": "i run coffee"
+  },
+  {
+    "source": "yo corro te",
+    "target": "i run tea"
+  },
+  {
+    "source": "yo corro jugo",
+    "target": "i run juice"
+  },
+  {
+    "source": "yo corro sopa",
+    "target": "i run soup"
+  },
+  {
+    "source": "yo camino",
+    "target": "i walk"
+  },
+  {
+    "source": "yo camino pan",
+    "target": "i walk bread"
+  },
+  {
+    "source": "yo camino arroz",
+    "target": "i walk rice"
+  },
+  {
+    "source": "yo camino pollo",
+    "target": "i walk chicken"
+  },
+  {
+    "source": "yo camino agua",
+    "target": "i walk water"
+  },
+  {
+    "source": "yo camino cafe",
+    "target": "i walk coffee"
+  },
+  {
+    "source": "yo camino te",
+    "target": "i walk tea"
+  },
+  {
+    "source": "yo camino jugo",
+    "target": "i walk juice"
+  },
+  {
+    "source": "yo camino sopa",
+    "target": "i walk soup"
+  },
+  {
+    "source": "yo estudio",
+    "target": "i study"
+  },
+  {
+    "source": "yo estudio pan",
+    "target": "i study bread"
+  },
+  {
+    "source": "yo estudio arroz",
+    "target": "i study rice"
+  },
+  {
+    "source": "yo estudio pollo",
+    "target": "i study chicken"
+  },
+  {
+    "source": "yo estudio agua",
+    "target": "i study water"
+  },
+  {
+    "source": "yo estudio cafe",
+    "target": "i study coffee"
+  },
+  {
+    "source": "yo estudio te",
+    "target": "i study tea"
+  },
+  {
+    "source": "yo estudio jugo",
+    "target": "i study juice"
+  },
+  {
+    "source": "yo estudio sopa",
+    "target": "i study soup"
+  },
+  {
+    "source": "yo trabajo",
+    "target": "i work"
+  },
+  {
+    "source": "yo trabajo pan",
+    "target": "i work bread"
+  },
+  {
+    "source": "yo trabajo arroz",
+    "target": "i work rice"
+  },
+  {
+    "source": "yo trabajo pollo",
+    "target": "i work chicken"
+  },
+  {
+    "source": "yo trabajo agua",
+    "target": "i work water"
+  },
+  {
+    "source": "yo trabajo cafe",
+    "target": "i work coffee"
+  },
+  {
+    "source": "yo trabajo te",
+    "target": "i work tea"
+  },
+  {
+    "source": "yo trabajo jugo",
+    "target": "i work juice"
+  },
+  {
+    "source": "yo trabajo sopa",
+    "target": "i work soup"
+  },
+  {
+    "source": "tu como",
+    "target": "you eat"
+  },
+  {
+    "source": "tu como pan",
+    "target": "you eat bread"
+  },
+  {
+    "source": "tu como arroz",
+    "target": "you eat rice"
+  },
+  {
+    "source": "tu como pollo",
+    "target": "you eat chicken"
+  },
+  {
+    "source": "tu como agua",
+    "target": "you eat water"
+  },
+  {
+    "source": "tu como cafe",
+    "target": "you eat coffee"
+  },
+  {
+    "source": "tu como te",
+    "target": "you eat tea"
+  },
+  {
+    "source": "tu como jugo",
+    "target": "you eat juice"
+  },
+  {
+    "source": "tu como sopa",
+    "target": "you eat soup"
+  },
+  {
+    "source": "tu bebo",
+    "target": "you drink"
+  },
+  {
+    "source": "tu bebo pan",
+    "target": "you drink bread"
+  },
+  {
+    "source": "tu bebo arroz",
+    "target": "you drink rice"
+  },
+  {
+    "source": "tu bebo pollo",
+    "target": "you drink chicken"
+  },
+  {
+    "source": "tu bebo agua",
+    "target": "you drink water"
+  },
+  {
+    "source": "tu bebo cafe",
+    "target": "you drink coffee"
+  },
+  {
+    "source": "tu bebo te",
+    "target": "you drink tea"
+  },
+  {
+    "source": "tu bebo jugo",
+    "target": "you drink juice"
+  },
+  {
+    "source": "tu bebo sopa",
+    "target": "you drink soup"
+  },
+  {
+    "source": "tu leo",
+    "target": "you read"
+  },
+  {
+    "source": "tu leo pan",
+    "target": "you read bread"
+  },
+  {
+    "source": "tu leo arroz",
+    "target": "you read rice"
+  },
+  {
+    "source": "tu leo pollo",
+    "target": "you read chicken"
+  },
+  {
+    "source": "tu leo agua",
+    "target": "you read water"
+  },
+  {
+    "source": "tu leo cafe",
+    "target": "you read coffee"
+  },
+  {
+    "source": "tu leo te",
+    "target": "you read tea"
+  },
+  {
+    "source": "tu leo jugo",
+    "target": "you read juice"
+  },
+  {
+    "source": "tu leo sopa",
+    "target": "you read soup"
+  },
+  {
+    "source": "tu escribo",
+    "target": "you write"
+  },
+  {
+    "source": "tu escribo pan",
+    "target": "you write bread"
+  },
+  {
+    "source": "tu escribo arroz",
+    "target": "you write rice"
+  },
+  {
+    "source": "tu escribo pollo",
+    "target": "you write chicken"
+  },
+  {
+    "source": "tu escribo agua",
+    "target": "you write water"
+  },
+  {
+    "source": "tu escribo cafe",
+    "target": "you write coffee"
+  },
+  {
+    "source": "tu escribo te",
+    "target": "you write tea"
+  },
+  {
+    "source": "tu escribo jugo",
+    "target": "you write juice"
+  },
+  {
+    "source": "tu escribo sopa",
+    "target": "you write soup"
+  },
+  {
+    "source": "tu corro",
+    "target": "you run"
+  },
+  {
+    "source": "tu corro pan",
+    "target": "you run bread"
+  },
+  {
+    "source": "tu corro arroz",
+    "target": "you run rice"
+  },
+  {
+    "source": "tu corro pollo",
+    "target": "you run chicken"
+  },
+  {
+    "source": "tu corro agua",
+    "target": "you run water"
+  },
+  {
+    "source": "tu corro cafe",
+    "target": "you run coffee"
+  },
+  {
+    "source": "tu corro te",
+    "target": "you run tea"
+  },
+  {
+    "source": "tu corro jugo",
+    "target": "you run juice"
+  },
+  {
+    "source": "tu corro sopa",
+    "target": "you run soup"
+  },
+  {
+    "source": "tu camino",
+    "target": "you walk"
+  },
+  {
+    "source": "tu camino pan",
+    "target": "you walk bread"
+  },
+  {
+    "source": "tu camino arroz",
+    "target": "you walk rice"
+  },
+  {
+    "source": "tu camino pollo",
+    "target": "you walk chicken"
+  },
+  {
+    "source": "tu camino agua",
+    "target": "you walk water"
+  },
+  {
+    "source": "tu camino cafe",
+    "target": "you walk coffee"
+  },
+  {
+    "source": "tu camino te",
+    "target": "you walk tea"
+  },
+  {
+    "source": "tu camino jugo",
+    "target": "you walk juice"
+  },
+  {
+    "source": "tu camino sopa",
+    "target": "you walk soup"
+  },
+  {
+    "source": "tu estudio",
+    "target": "you study"
+  },
+  {
+    "source": "tu estudio pan",
+    "target": "you study bread"
+  },
+  {
+    "source": "tu estudio arroz",
+    "target": "you study rice"
+  },
+  {
+    "source": "tu estudio pollo",
+    "target": "you study chicken"
+  },
+  {
+    "source": "tu estudio agua",
+    "target": "you study water"
+  },
+  {
+    "source": "tu estudio cafe",
+    "target": "you study coffee"
+  },
+  {
+    "source": "tu estudio te",
+    "target": "you study tea"
+  },
+  {
+    "source": "tu estudio jugo",
+    "target": "you study juice"
+  },
+  {
+    "source": "tu estudio sopa",
+    "target": "you study soup"
+  },
+  {
+    "source": "tu trabajo",
+    "target": "you work"
+  },
+  {
+    "source": "tu trabajo pan",
+    "target": "you work bread"
+  },
+  {
+    "source": "tu trabajo arroz",
+    "target": "you work rice"
+  },
+  {
+    "source": "tu trabajo pollo",
+    "target": "you work chicken"
+  },
+  {
+    "source": "tu trabajo agua",
+    "target": "you work water"
+  },
+  {
+    "source": "tu trabajo cafe",
+    "target": "you work coffee"
+  },
+  {
+    "source": "tu trabajo te",
+    "target": "you work tea"
+  },
+  {
+    "source": "tu trabajo jugo",
+    "target": "you work juice"
+  },
+  {
+    "source": "tu trabajo sopa",
+    "target": "you work soup"
+  },
+  {
+    "source": "el como",
+    "target": "he eat"
+  },
+  {
+    "source": "el como pan",
+    "target": "he eat bread"
+  },
+  {
+    "source": "el como arroz",
+    "target": "he eat rice"
+  },
+  {
+    "source": "el como pollo",
+    "target": "he eat chicken"
+  },
+  {
+    "source": "el como agua",
+    "target": "he eat water"
+  },
+  {
+    "source": "el como cafe",
+    "target": "he eat coffee"
+  },
+  {
+    "source": "el como te",
+    "target": "he eat tea"
+  },
+  {
+    "source": "el como jugo",
+    "target": "he eat juice"
+  },
+  {
+    "source": "el como sopa",
+    "target": "he eat soup"
+  },
+  {
+    "source": "el bebo",
+    "target": "he drink"
+  },
+  {
+    "source": "el bebo pan",
+    "target": "he drink bread"
+  },
+  {
+    "source": "el bebo arroz",
+    "target": "he drink rice"
+  },
+  {
+    "source": "el bebo pollo",
+    "target": "he drink chicken"
+  },
+  {
+    "source": "el bebo agua",
+    "target": "he drink water"
+  },
+  {
+    "source": "el bebo cafe",
+    "target": "he drink coffee"
+  },
+  {
+    "source": "el bebo te",
+    "target": "he drink tea"
+  },
+  {
+    "source": "el bebo jugo",
+    "target": "he drink juice"
+  },
+  {
+    "source": "el bebo sopa",
+    "target": "he drink soup"
+  },
+  {
+    "source": "el leo",
+    "target": "he read"
+  },
+  {
+    "source": "el leo pan",
+    "target": "he read bread"
+  },
+  {
+    "source": "el leo arroz",
+    "target": "he read rice"
+  },
+  {
+    "source": "el leo pollo",
+    "target": "he read chicken"
+  },
+  {
+    "source": "el leo agua",
+    "target": "he read water"
+  },
+  {
+    "source": "el leo cafe",
+    "target": "he read coffee"
+  },
+  {
+    "source": "el leo te",
+    "target": "he read tea"
+  },
+  {
+    "source": "el leo jugo",
+    "target": "he read juice"
+  },
+  {
+    "source": "el leo sopa",
+    "target": "he read soup"
+  },
+  {
+    "source": "el escribo",
+    "target": "he write"
+  },
+  {
+    "source": "el escribo pan",
+    "target": "he write bread"
+  },
+  {
+    "source": "el escribo arroz",
+    "target": "he write rice"
+  },
+  {
+    "source": "el escribo pollo",
+    "target": "he write chicken"
+  },
+  {
+    "source": "el escribo agua",
+    "target": "he write water"
+  },
+  {
+    "source": "el escribo cafe",
+    "target": "he write coffee"
+  },
+  {
+    "source": "el escribo te",
+    "target": "he write tea"
+  },
+  {
+    "source": "el escribo jugo",
+    "target": "he write juice"
+  },
+  {
+    "source": "el escribo sopa",
+    "target": "he write soup"
+  },
+  {
+    "source": "el corro",
+    "target": "he run"
+  },
+  {
+    "source": "el corro pan",
+    "target": "he run bread"
+  },
+  {
+    "source": "el corro arroz",
+    "target": "he run rice"
+  },
+  {
+    "source": "el corro pollo",
+    "target": "he run chicken"
+  },
+  {
+    "source": "el corro agua",
+    "target": "he run water"
+  },
+  {
+    "source": "el corro cafe",
+    "target": "he run coffee"
+  },
+  {
+    "source": "el corro te",
+    "target": "he run tea"
+  },
+  {
+    "source": "el corro jugo",
+    "target": "he run juice"
+  },
+  {
+    "source": "el corro sopa",
+    "target": "he run soup"
+  },
+  {
+    "source": "el camino",
+    "target": "he walk"
+  },
+  {
+    "source": "el camino pan",
+    "target": "he walk bread"
+  },
+  {
+    "source": "el camino arroz",
+    "target": "he walk rice"
+  },
+  {
+    "source": "el camino pollo",
+    "target": "he walk chicken"
+  },
+  {
+    "source": "el camino agua",
+    "target": "he walk water"
+  },
+  {
+    "source": "el camino cafe",
+    "target": "he walk coffee"
+  },
+  {
+    "source": "el camino te",
+    "target": "he walk tea"
+  },
+  {
+    "source": "el camino jugo",
+    "target": "he walk juice"
+  },
+  {
+    "source": "el camino sopa",
+    "target": "he walk soup"
+  },
+  {
+    "source": "el estudio",
+    "target": "he study"
+  },
+  {
+    "source": "el estudio pan",
+    "target": "he study bread"
+  },
+  {
+    "source": "el estudio arroz",
+    "target": "he study rice"
+  },
+  {
+    "source": "el estudio pollo",
+    "target": "he study chicken"
+  },
+  {
+    "source": "el estudio agua",
+    "target": "he study water"
+  },
+  {
+    "source": "el estudio cafe",
+    "target": "he study coffee"
+  },
+  {
+    "source": "el estudio te",
+    "target": "he study tea"
+  },
+  {
+    "source": "el estudio jugo",
+    "target": "he study juice"
+  },
+  {
+    "source": "el estudio sopa",
+    "target": "he study soup"
+  },
+  {
+    "source": "el trabajo",
+    "target": "he work"
+  },
+  {
+    "source": "el trabajo pan",
+    "target": "he work bread"
+  },
+  {
+    "source": "el trabajo arroz",
+    "target": "he work rice"
+  },
+  {
+    "source": "el trabajo pollo",
+    "target": "he work chicken"
+  },
+  {
+    "source": "el trabajo agua",
+    "target": "he work water"
+  },
+  {
+    "source": "el trabajo cafe",
+    "target": "he work coffee"
+  },
+  {
+    "source": "el trabajo te",
+    "target": "he work tea"
+  },
+  {
+    "source": "el trabajo jugo",
+    "target": "he work juice"
+  },
+  {
+    "source": "el trabajo sopa",
+    "target": "he work soup"
+  },
+  {
+    "source": "ella como",
+    "target": "she eat"
+  },
+  {
+    "source": "ella como pan",
+    "target": "she eat bread"
+  },
+  {
+    "source": "ella como arroz",
+    "target": "she eat rice"
+  },
+  {
+    "source": "ella como pollo",
+    "target": "she eat chicken"
+  },
+  {
+    "source": "ella como agua",
+    "target": "she eat water"
+  },
+  {
+    "source": "ella como cafe",
+    "target": "she eat coffee"
+  },
+  {
+    "source": "ella como te",
+    "target": "she eat tea"
+  },
+  {
+    "source": "ella como jugo",
+    "target": "she eat juice"
+  },
+  {
+    "source": "ella como sopa",
+    "target": "she eat soup"
+  },
+  {
+    "source": "ella bebo",
+    "target": "she drink"
+  },
+  {
+    "source": "ella bebo pan",
+    "target": "she drink bread"
+  },
+  {
+    "source": "ella bebo arroz",
+    "target": "she drink rice"
+  },
+  {
+    "source": "ella bebo pollo",
+    "target": "she drink chicken"
+  },
+  {
+    "source": "ella bebo agua",
+    "target": "she drink water"
+  },
+  {
+    "source": "ella bebo cafe",
+    "target": "she drink coffee"
+  },
+  {
+    "source": "ella bebo te",
+    "target": "she drink tea"
+  },
+  {
+    "source": "ella bebo jugo",
+    "target": "she drink juice"
+  },
+  {
+    "source": "ella bebo sopa",
+    "target": "she drink soup"
+  },
+  {
+    "source": "ella leo",
+    "target": "she read"
+  },
+  {
+    "source": "ella leo pan",
+    "target": "she read bread"
+  },
+  {
+    "source": "ella leo arroz",
+    "target": "she read rice"
+  },
+  {
+    "source": "ella leo pollo",
+    "target": "she read chicken"
+  },
+  {
+    "source": "ella leo agua",
+    "target": "she read water"
+  },
+  {
+    "source": "ella leo cafe",
+    "target": "she read coffee"
+  },
+  {
+    "source": "ella leo te",
+    "target": "she read tea"
+  },
+  {
+    "source": "ella leo jugo",
+    "target": "she read juice"
+  },
+  {
+    "source": "ella leo sopa",
+    "target": "she read soup"
+  },
+  {
+    "source": "ella escribo",
+    "target": "she write"
+  },
+  {
+    "source": "ella escribo pan",
+    "target": "she write bread"
+  },
+  {
+    "source": "ella escribo arroz",
+    "target": "she write rice"
+  },
+  {
+    "source": "ella escribo pollo",
+    "target": "she write chicken"
+  },
+  {
+    "source": "ella escribo agua",
+    "target": "she write water"
+  },
+  {
+    "source": "ella escribo cafe",
+    "target": "she write coffee"
+  },
+  {
+    "source": "ella escribo te",
+    "target": "she write tea"
+  },
+  {
+    "source": "ella escribo jugo",
+    "target": "she write juice"
+  },
+  {
+    "source": "ella escribo sopa",
+    "target": "she write soup"
+  },
+  {
+    "source": "ella corro",
+    "target": "she run"
+  },
+  {
+    "source": "ella corro pan",
+    "target": "she run bread"
+  },
+  {
+    "source": "ella corro arroz",
+    "target": "she run rice"
+  },
+  {
+    "source": "ella corro pollo",
+    "target": "she run chicken"
+  },
+  {
+    "source": "ella corro agua",
+    "target": "she run water"
+  },
+  {
+    "source": "ella corro cafe",
+    "target": "she run coffee"
+  },
+  {
+    "source": "ella corro te",
+    "target": "she run tea"
+  },
+  {
+    "source": "ella corro jugo",
+    "target": "she run juice"
+  },
+  {
+    "source": "ella corro sopa",
+    "target": "she run soup"
+  },
+  {
+    "source": "ella camino",
+    "target": "she walk"
+  },
+  {
+    "source": "ella camino pan",
+    "target": "she walk bread"
+  },
+  {
+    "source": "ella camino arroz",
+    "target": "she walk rice"
+  },
+  {
+    "source": "ella camino pollo",
+    "target": "she walk chicken"
+  },
+  {
+    "source": "ella camino agua",
+    "target": "she walk water"
+  },
+  {
+    "source": "ella camino cafe",
+    "target": "she walk coffee"
+  },
+  {
+    "source": "ella camino te",
+    "target": "she walk tea"
+  },
+  {
+    "source": "ella camino jugo",
+    "target": "she walk juice"
+  },
+  {
+    "source": "ella camino sopa",
+    "target": "she walk soup"
+  },
+  {
+    "source": "ella estudio",
+    "target": "she study"
+  },
+  {
+    "source": "ella estudio pan",
+    "target": "she study bread"
+  },
+  {
+    "source": "ella estudio arroz",
+    "target": "she study rice"
+  },
+  {
+    "source": "ella estudio pollo",
+    "target": "she study chicken"
+  },
+  {
+    "source": "ella estudio agua",
+    "target": "she study water"
+  },
+  {
+    "source": "ella estudio cafe",
+    "target": "she study coffee"
+  },
+  {
+    "source": "ella estudio te",
+    "target": "she study tea"
+  },
+  {
+    "source": "ella estudio jugo",
+    "target": "she study juice"
+  },
+  {
+    "source": "ella estudio sopa",
+    "target": "she study soup"
+  },
+  {
+    "source": "ella trabajo",
+    "target": "she work"
+  },
+  {
+    "source": "ella trabajo pan",
+    "target": "she work bread"
+  },
+  {
+    "source": "ella trabajo arroz",
+    "target": "she work rice"
+  },
+  {
+    "source": "ella trabajo pollo",
+    "target": "she work chicken"
+  },
+  {
+    "source": "ella trabajo agua",
+    "target": "she work water"
+  },
+  {
+    "source": "ella trabajo cafe",
+    "target": "she work coffee"
+  },
+  {
+    "source": "ella trabajo te",
+    "target": "she work tea"
+  },
+  {
+    "source": "ella trabajo jugo",
+    "target": "she work juice"
+  },
+  {
+    "source": "ella trabajo sopa",
+    "target": "she work soup"
+  },
+  {
+    "source": "nosotros como",
+    "target": "we eat"
+  },
+  {
+    "source": "nosotros como pan",
+    "target": "we eat bread"
+  },
+  {
+    "source": "nosotros como arroz",
+    "target": "we eat rice"
+  },
+  {
+    "source": "nosotros como pollo",
+    "target": "we eat chicken"
+  },
+  {
+    "source": "nosotros como agua",
+    "target": "we eat water"
+  },
+  {
+    "source": "nosotros como cafe",
+    "target": "we eat coffee"
+  },
+  {
+    "source": "nosotros como te",
+    "target": "we eat tea"
+  },
+  {
+    "source": "nosotros como jugo",
+    "target": "we eat juice"
+  },
+  {
+    "source": "nosotros como sopa",
+    "target": "we eat soup"
+  },
+  {
+    "source": "nosotros bebo",
+    "target": "we drink"
+  },
+  {
+    "source": "nosotros bebo pan",
+    "target": "we drink bread"
+  },
+  {
+    "source": "nosotros bebo arroz",
+    "target": "we drink rice"
+  },
+  {
+    "source": "nosotros bebo pollo",
+    "target": "we drink chicken"
+  },
+  {
+    "source": "nosotros bebo agua",
+    "target": "we drink water"
+  },
+  {
+    "source": "nosotros bebo cafe",
+    "target": "we drink coffee"
+  },
+  {
+    "source": "nosotros bebo te",
+    "target": "we drink tea"
+  },
+  {
+    "source": "nosotros bebo jugo",
+    "target": "we drink juice"
+  },
+  {
+    "source": "nosotros bebo sopa",
+    "target": "we drink soup"
+  },
+  {
+    "source": "nosotros leo",
+    "target": "we read"
+  },
+  {
+    "source": "nosotros leo pan",
+    "target": "we read bread"
+  },
+  {
+    "source": "nosotros leo arroz",
+    "target": "we read rice"
+  },
+  {
+    "source": "nosotros leo pollo",
+    "target": "we read chicken"
+  },
+  {
+    "source": "nosotros leo agua",
+    "target": "we read water"
+  },
+  {
+    "source": "nosotros leo cafe",
+    "target": "we read coffee"
+  },
+  {
+    "source": "nosotros leo te",
+    "target": "we read tea"
+  },
+  {
+    "source": "nosotros leo jugo",
+    "target": "we read juice"
+  },
+  {
+    "source": "nosotros leo sopa",
+    "target": "we read soup"
+  },
+  {
+    "source": "nosotros escribo",
+    "target": "we write"
+  },
+  {
+    "source": "nosotros escribo pan",
+    "target": "we write bread"
+  },
+  {
+    "source": "nosotros escribo arroz",
+    "target": "we write rice"
+  },
+  {
+    "source": "nosotros escribo pollo",
+    "target": "we write chicken"
+  },
+  {
+    "source": "nosotros escribo agua",
+    "target": "we write water"
+  },
+  {
+    "source": "nosotros escribo cafe",
+    "target": "we write coffee"
+  },
+  {
+    "source": "nosotros escribo te",
+    "target": "we write tea"
+  },
+  {
+    "source": "nosotros escribo jugo",
+    "target": "we write juice"
+  },
+  {
+    "source": "nosotros escribo sopa",
+    "target": "we write soup"
+  },
+  {
+    "source": "nosotros corro",
+    "target": "we run"
+  },
+  {
+    "source": "nosotros corro pan",
+    "target": "we run bread"
+  },
+  {
+    "source": "nosotros corro arroz",
+    "target": "we run rice"
+  },
+  {
+    "source": "nosotros corro pollo",
+    "target": "we run chicken"
+  },
+  {
+    "source": "nosotros corro agua",
+    "target": "we run water"
+  },
+  {
+    "source": "nosotros corro cafe",
+    "target": "we run coffee"
+  },
+  {
+    "source": "nosotros corro te",
+    "target": "we run tea"
+  },
+  {
+    "source": "nosotros corro jugo",
+    "target": "we run juice"
+  },
+  {
+    "source": "nosotros corro sopa",
+    "target": "we run soup"
+  },
+  {
+    "source": "nosotros camino",
+    "target": "we walk"
+  },
+  {
+    "source": "nosotros camino pan",
+    "target": "we walk bread"
+  },
+  {
+    "source": "nosotros camino arroz",
+    "target": "we walk rice"
+  },
+  {
+    "source": "nosotros camino pollo",
+    "target": "we walk chicken"
+  },
+  {
+    "source": "nosotros camino agua",
+    "target": "we walk water"
+  },
+  {
+    "source": "nosotros camino cafe",
+    "target": "we walk coffee"
+  },
+  {
+    "source": "nosotros camino te",
+    "target": "we walk tea"
+  },
+  {
+    "source": "nosotros camino jugo",
+    "target": "we walk juice"
+  },
+  {
+    "source": "nosotros camino sopa",
+    "target": "we walk soup"
+  },
+  {
+    "source": "nosotros estudio",
+    "target": "we study"
+  },
+  {
+    "source": "nosotros estudio pan",
+    "target": "we study bread"
+  },
+  {
+    "source": "nosotros estudio arroz",
+    "target": "we study rice"
+  },
+  {
+    "source": "nosotros estudio pollo",
+    "target": "we study chicken"
+  },
+  {
+    "source": "nosotros estudio agua",
+    "target": "we study water"
+  },
+  {
+    "source": "nosotros estudio cafe",
+    "target": "we study coffee"
+  },
+  {
+    "source": "nosotros estudio te",
+    "target": "we study tea"
+  },
+  {
+    "source": "nosotros estudio jugo",
+    "target": "we study juice"
+  },
+  {
+    "source": "nosotros estudio sopa",
+    "target": "we study soup"
+  },
+  {
+    "source": "nosotros trabajo",
+    "target": "we work"
+  },
+  {
+    "source": "nosotros trabajo pan",
+    "target": "we work bread"
+  },
+  {
+    "source": "nosotros trabajo arroz",
+    "target": "we work rice"
+  },
+  {
+    "source": "nosotros trabajo pollo",
+    "target": "we work chicken"
+  },
+  {
+    "source": "nosotros trabajo agua",
+    "target": "we work water"
+  },
+  {
+    "source": "nosotros trabajo cafe",
+    "target": "we work coffee"
+  },
+  {
+    "source": "nosotros trabajo te",
+    "target": "we work tea"
+  },
+  {
+    "source": "nosotros trabajo jugo",
+    "target": "we work juice"
+  },
+  {
+    "source": "nosotros trabajo sopa",
+    "target": "we work soup"
+  },
+  {
+    "source": "ellos como",
+    "target": "they eat"
+  },
+  {
+    "source": "ellos como pan",
+    "target": "they eat bread"
+  },
+  {
+    "source": "ellos como arroz",
+    "target": "they eat rice"
+  },
+  {
+    "source": "ellos como pollo",
+    "target": "they eat chicken"
+  },
+  {
+    "source": "ellos como agua",
+    "target": "they eat water"
+  },
+  {
+    "source": "ellos como cafe",
+    "target": "they eat coffee"
+  },
+  {
+    "source": "ellos como te",
+    "target": "they eat tea"
+  },
+  {
+    "source": "ellos como jugo",
+    "target": "they eat juice"
+  },
+  {
+    "source": "ellos como sopa",
+    "target": "they eat soup"
+  },
+  {
+    "source": "ellos bebo",
+    "target": "they drink"
+  },
+  {
+    "source": "ellos bebo pan",
+    "target": "they drink bread"
+  },
+  {
+    "source": "ellos bebo arroz",
+    "target": "they drink rice"
+  },
+  {
+    "source": "ellos bebo pollo",
+    "target": "they drink chicken"
+  },
+  {
+    "source": "ellos bebo agua",
+    "target": "they drink water"
+  },
+  {
+    "source": "ellos bebo cafe",
+    "target": "they drink coffee"
+  },
+  {
+    "source": "ellos bebo te",
+    "target": "they drink tea"
+  },
+  {
+    "source": "ellos bebo jugo",
+    "target": "they drink juice"
+  },
+  {
+    "source": "ellos bebo sopa",
+    "target": "they drink soup"
+  },
+  {
+    "source": "ellos leo",
+    "target": "they read"
+  },
+  {
+    "source": "ellos leo pan",
+    "target": "they read bread"
+  },
+  {
+    "source": "ellos leo arroz",
+    "target": "they read rice"
+  },
+  {
+    "source": "ellos leo pollo",
+    "target": "they read chicken"
+  },
+  {
+    "source": "ellos leo agua",
+    "target": "they read water"
+  },
+  {
+    "source": "ellos leo cafe",
+    "target": "they read coffee"
+  },
+  {
+    "source": "ellos leo te",
+    "target": "they read tea"
+  },
+  {
+    "source": "ellos leo jugo",
+    "target": "they read juice"
+  },
+  {
+    "source": "ellos leo sopa",
+    "target": "they read soup"
+  },
+  {
+    "source": "ellos escribo",
+    "target": "they write"
+  },
+  {
+    "source": "ellos escribo pan",
+    "target": "they write bread"
+  },
+  {
+    "source": "ellos escribo arroz",
+    "target": "they write rice"
+  },
+  {
+    "source": "ellos escribo pollo",
+    "target": "they write chicken"
+  },
+  {
+    "source": "ellos escribo agua",
+    "target": "they write water"
+  },
+  {
+    "source": "ellos escribo cafe",
+    "target": "they write coffee"
+  },
+  {
+    "source": "ellos escribo te",
+    "target": "they write tea"
+  },
+  {
+    "source": "ellos escribo jugo",
+    "target": "they write juice"
+  },
+  {
+    "source": "ellos escribo sopa",
+    "target": "they write soup"
+  },
+  {
+    "source": "ellos corro",
+    "target": "they run"
+  },
+  {
+    "source": "ellos corro pan",
+    "target": "they run bread"
+  },
+  {
+    "source": "ellos corro arroz",
+    "target": "they run rice"
+  },
+  {
+    "source": "ellos corro pollo",
+    "target": "they run chicken"
+  },
+  {
+    "source": "ellos corro agua",
+    "target": "they run water"
+  },
+  {
+    "source": "ellos corro cafe",
+    "target": "they run coffee"
+  },
+  {
+    "source": "ellos corro te",
+    "target": "they run tea"
+  },
+  {
+    "source": "ellos corro jugo",
+    "target": "they run juice"
+  },
+  {
+    "source": "ellos corro sopa",
+    "target": "they run soup"
+  },
+  {
+    "source": "ellos camino",
+    "target": "they walk"
+  },
+  {
+    "source": "ellos camino pan",
+    "target": "they walk bread"
+  },
+  {
+    "source": "ellos camino arroz",
+    "target": "they walk rice"
+  },
+  {
+    "source": "ellos camino pollo",
+    "target": "they walk chicken"
+  },
+  {
+    "source": "ellos camino agua",
+    "target": "they walk water"
+  },
+  {
+    "source": "ellos camino cafe",
+    "target": "they walk coffee"
+  },
+  {
+    "source": "ellos camino te",
+    "target": "they walk tea"
+  },
+  {
+    "source": "ellos camino jugo",
+    "target": "they walk juice"
+  },
+  {
+    "source": "ellos camino sopa",
+    "target": "they walk soup"
+  },
+  {
+    "source": "ellos estudio",
+    "target": "they study"
+  },
+  {
+    "source": "ellos estudio pan",
+    "target": "they study bread"
+  },
+  {
+    "source": "ellos estudio arroz",
+    "target": "they study rice"
+  },
+  {
+    "source": "ellos estudio pollo",
+    "target": "they study chicken"
+  },
+  {
+    "source": "ellos estudio agua",
+    "target": "they study water"
+  },
+  {
+    "source": "ellos estudio cafe",
+    "target": "they study coffee"
+  },
+  {
+    "source": "ellos estudio te",
+    "target": "they study tea"
+  },
+  {
+    "source": "ellos estudio jugo",
+    "target": "they study juice"
+  },
+  {
+    "source": "ellos estudio sopa",
+    "target": "they study soup"
+  },
+  {
+    "source": "ellos trabajo",
+    "target": "they work"
+  },
+  {
+    "source": "ellos trabajo pan",
+    "target": "they work bread"
+  },
+  {
+    "source": "ellos trabajo arroz",
+    "target": "they work rice"
+  },
+  {
+    "source": "ellos trabajo pollo",
+    "target": "they work chicken"
+  },
+  {
+    "source": "ellos trabajo agua",
+    "target": "they work water"
+  },
+  {
+    "source": "ellos trabajo cafe",
+    "target": "they work coffee"
+  },
+  {
+    "source": "ellos trabajo te",
+    "target": "they work tea"
+  },
+  {
+    "source": "ellos trabajo jugo",
+    "target": "they work juice"
+  },
+  {
+    "source": "ellos trabajo sopa",
+    "target": "they work soup"
+  },
+  {
+    "source": "tengo hambre",
+    "target": "i am hungry"
+  },
+  {
+    "source": "tengo sed",
+    "target": "i am thirsty"
+  },
+  {
+    "source": "tengo sueño",
+    "target": "i am sleepy"
+  },
+  {
+    "source": "tengo una pregunta",
+    "target": "i have a question"
+  },
+  {
+    "source": "tengo una idea",
+    "target": "i have an idea"
+  },
+  {
+    "source": "necesito ayuda",
+    "target": "i need help"
+  },
+  {
+    "source": "necesito tiempo",
+    "target": "i need time"
+  },
+  {
+    "source": "necesito dinero",
+    "target": "i need money"
+  },
+  {
+    "source": "quiero agua",
+    "target": "i want water"
+  },
+  {
+    "source": "quiero comida",
+    "target": "i want food"
+  },
+  {
+    "source": "quiero dormir",
+    "target": "i want to sleep"
+  },
+  {
+    "source": "quiero estudiar",
+    "target": "i want to study"
+  },
+  {
+    "source": "quiero aprender ingles",
+    "target": "i want to learn english"
+  },
+  {
+    "source": "quiero entrar",
+    "target": "i want to come in"
+  },
+  {
+    "source": "quiero salir",
+    "target": "i want to go out"
+  },
+  {
+    "source": "quiero ayudarte",
+    "target": "i want to help you"
+  },
+  {
+    "source": "estoy feliz",
+    "target": "i am happy"
+  },
+  {
+    "source": "estoy triste",
+    "target": "i am sad"
+  },
+  {
+    "source": "estoy cansado",
+    "target": "i am tired"
+  },
+  {
+    "source": "estoy ocupada",
+    "target": "i am busy"
+  },
+  {
+    "source": "estoy lista",
+    "target": "i am ready"
+  },
+  {
+    "source": "estoy enfermo",
+    "target": "i am sick"
+  },
+  {
+    "source": "estoy bien",
+    "target": "i am fine"
+  },
+  {
+    "source": "estoy aquí",
+    "target": "i am here"
+  },
+  {
+    "source": "estoy en casa",
+    "target": "i am at home"
+  },
+  {
+    "source": "estoy en clase",
+    "target": "i am in class"
+  },
+  {
+    "source": "¿cómo estas?",
+    "target": "how are you?"
+  },
+  {
+    "source": "¿que hora es?",
+    "target": "what time is it?"
+  },
+  {
+    "source": "¿dónde estas?",
+    "target": "where are you?"
+  },
+  {
+    "source": "¿dónde vives?",
+    "target": "where do you live?"
+  },
+  {
+    "source": "¿que haces?",
+    "target": "what are you doing?"
+  },
+  {
+    "source": "¿puedo entrar?",
+    "target": "can i come in?"
+  },
+  {
+    "source": "¿puedo salir?",
+    "target": "can i go out?"
+  },
+  {
+    "source": "¿me puedes ayudar?",
+    "target": "can you help me?"
+  },
+  {
+    "source": "¿que significa eso?",
+    "target": "what does that mean?"
+  },
+  {
+    "source": "¿cuanto cuesta?",
+    "target": "how much does it cost?"
+  },
+  {
+    "source": "voy a casa",
+    "target": "i go home"
+  },
+  {
+    "source": "trabajo en casa",
+    "target": "i work at home"
+  },
+  {
+    "source": "estudio en casa",
+    "target": "i study at home"
+  },
+  {
+    "source": "¿dónde esta casa?",
+    "target": "where is home?"
+  },
+  {
+    "source": "vamos a casa",
+    "target": "let's go home"
+  },
+  {
+    "source": "voy a la escuela",
+    "target": "i go to the school"
+  },
+  {
+    "source": "estoy en la escuela",
+    "target": "i am at the school"
+  },
+  {
+    "source": "trabajo en la escuela",
+    "target": "i work at the school"
+  },
+  {
+    "source": "estudio en la escuela",
+    "target": "i study at the school"
+  },
+  {
+    "source": "¿dónde esta la escuela?",
+    "target": "where is the school?"
+  },
+  {
+    "source": "vamos a la escuela",
+    "target": "let's go to the school"
+  },
+  {
+    "source": "voy a la universidad",
+    "target": "i go to the university"
+  },
+  {
+    "source": "estoy en la universidad",
+    "target": "i am at the university"
+  },
+  {
+    "source": "trabajo en la universidad",
+    "target": "i work at the university"
+  },
+  {
+    "source": "estudio en la universidad",
+    "target": "i study at the university"
+  },
+  {
+    "source": "¿dónde esta la universidad?",
+    "target": "where is the university?"
+  },
+  {
+    "source": "vamos a la universidad",
+    "target": "let's go to the university"
+  },
+  {
+    "source": "voy a la oficina",
+    "target": "i go to the office"
+  },
+  {
+    "source": "estoy en la oficina",
+    "target": "i am at the office"
+  },
+  {
+    "source": "trabajo en la oficina",
+    "target": "i work at the office"
+  },
+  {
+    "source": "estudio en la oficina",
+    "target": "i study at the office"
+  },
+  {
+    "source": "¿dónde esta la oficina?",
+    "target": "where is the office?"
+  },
+  {
+    "source": "vamos a la oficina",
+    "target": "let's go to the office"
+  },
+  {
+    "source": "voy a la parque",
+    "target": "i go to the park"
+  },
+  {
+    "source": "estoy en la parque",
+    "target": "i am at the park"
+  },
+  {
+    "source": "trabajo en la parque",
+    "target": "i work at the park"
+  },
+  {
+    "source": "estudio en la parque",
+    "target": "i study at the park"
+  },
+  {
+    "source": "¿dónde esta la parque?",
+    "target": "where is the park?"
+  },
+  {
+    "source": "vamos a la parque",
+    "target": "let's go to the park"
+  },
+  {
+    "source": "voy a la tienda",
+    "target": "i go to the store"
+  },
+  {
+    "source": "estoy en la tienda",
+    "target": "i am at the store"
+  },
+  {
+    "source": "trabajo en la tienda",
+    "target": "i work at the store"
+  },
+  {
+    "source": "estudio en la tienda",
+    "target": "i study at the store"
+  },
+  {
+    "source": "¿dónde esta la tienda?",
+    "target": "where is the store?"
+  },
+  {
+    "source": "vamos a la tienda",
+    "target": "let's go to the store"
+  },
+  {
+    "source": "voy a la mercado",
+    "target": "i go to the market"
+  },
+  {
+    "source": "estoy en la mercado",
+    "target": "i am at the market"
+  },
+  {
+    "source": "trabajo en la mercado",
+    "target": "i work at the market"
+  },
+  {
+    "source": "estudio en la mercado",
+    "target": "i study at the market"
+  },
+  {
+    "source": "¿dónde esta la mercado?",
+    "target": "where is the market?"
+  },
+  {
+    "source": "vamos a la mercado",
+    "target": "let's go to the market"
+  },
+  {
+    "source": "voy a la hospital",
+    "target": "i go to the hospital"
+  },
+  {
+    "source": "estoy en la hospital",
+    "target": "i am at the hospital"
+  },
+  {
+    "source": "trabajo en la hospital",
+    "target": "i work at the hospital"
+  },
+  {
+    "source": "estudio en la hospital",
+    "target": "i study at the hospital"
+  },
+  {
+    "source": "¿dónde esta la hospital?",
+    "target": "where is the hospital?"
+  },
+  {
+    "source": "vamos a la hospital",
+    "target": "let's go to the hospital"
+  },
+  {
+    "source": "voy a la resturante",
+    "target": "i go to the resturant"
+  },
+  {
+    "source": "estoy en la resturante",
+    "target": "i am at the resturant"
+  },
+  {
+    "source": "trabajo en la resturante",
+    "target": "i work at the resturant"
+  },
+  {
+    "source": "estudio en la resturante",
+    "target": "i study at the resturant"
+  },
+  {
+    "source": "¿dónde esta la resturante?",
+    "target": "where is the resturant?"
+  },
+  {
+    "source": "vamos a la resturante",
+    "target": "let's go to the resturant"
+  },
+  {
+    "source": "voy a la biblioteca",
+    "target": "i go to the library"
+  },
+  {
+    "source": "estoy en la biblioteca",
+    "target": "i am at the library"
+  },
+  {
+    "source": "trabajo en la biblioteca",
+    "target": "i work at the library"
+  },
+  {
+    "source": "estudio en la biblioteca",
+    "target": "i study at the library"
+  },
+  {
+    "source": "¿dónde esta la biblioteca?",
+    "target": "where is the library?"
+  },
+  {
+    "source": "vamos a la biblioteca",
+    "target": "let's go to the library"
+  },
+  {
+    "source": "el coche es rojo",
+    "target": "the car is red"
+  },
+  {
+    "source": "la casa es rojo",
+    "target": "the house is red"
+  },
+  {
+    "source": "mi camisa es rojo",
+    "target": "my shirt is red"
+  },
+  {
+    "source": "el coche es azul",
+    "target": "the car is blue"
+  },
+  {
+    "source": "la casa es azul",
+    "target": "the house is blue"
+  },
+  {
+    "source": "mi camisa es azul",
+    "target": "my shirt is blue"
+  },
+  {
+    "source": "el coche es verde",
+    "target": "the car is green"
+  },
+  {
+    "source": "la casa es verde",
+    "target": "the house is green"
+  },
+  {
+    "source": "mi camisa es verde",
+    "target": "my shirt is green"
+  },
+  {
+    "source": "el coche es amarillo",
+    "target": "the car is yellow"
+  },
+  {
+    "source": "la casa es amarillo",
+    "target": "the house is yellow"
+  },
+  {
+    "source": "mi camisa es amarillo",
+    "target": "my shirt is yellow"
+  },
+  {
+    "source": "el coche es negro",
+    "target": "the car is black"
+  },
+  {
+    "source": "la casa es negro",
+    "target": "the house is black"
+  },
+  {
+    "source": "mi camisa es negro",
+    "target": "my shirt is black"
+  },
+  {
+    "source": "el coche es blanco",
+    "target": "the car is white"
+  },
+  {
+    "source": "la casa es blanco",
+    "target": "the house is white"
+  },
+  {
+    "source": "mi camisa es blanco",
+    "target": "my shirt is white"
+  },
+  {
+    "source": "este libro es grande",
+    "target": "this book is big"
+  },
+  {
+    "source": "el examen es grande",
+    "target": "the exam is big"
+  },
+  {
+    "source": "mi cuarto es grande",
+    "target": "my room is big"
+  },
+  {
+    "source": "este libro es pequeño",
+    "target": "this book is small"
+  },
+  {
+    "source": "el examen es pequeño",
+    "target": "the exam is small"
+  },
+  {
+    "source": "mi cuarto es pequeño",
+    "target": "my room is small"
+  },
+  {
+    "source": "este libro es rapido",
+    "target": "this book is fast"
+  },
+  {
+    "source": "el examen es rapido",
+    "target": "the exam is fast"
+  },
+  {
+    "source": "mi cuarto es rapido",
+    "target": "my room is fast"
+  },
+  {
+    "source": "este libro es lento",
+    "target": "this book is slow"
+  },
+  {
+    "source": "el examen es lento",
+    "target": "the exam is slow"
+  },
+  {
+    "source": "mi cuarto es lento",
+    "target": "my room is slow"
+  },
+  {
+    "source": "este libro es facil",
+    "target": "this book is easy"
+  },
+  {
+    "source": "el examen es facil",
+    "target": "the exam is easy"
+  },
+  {
+    "source": "mi cuarto es facil",
+    "target": "my room is easy"
+  },
+  {
+    "source": "este libro es difícil",
+    "target": "this book is difficult"
+  },
+  {
+    "source": "el examen es difícil",
+    "target": "the exam is difficult"
+  },
+  {
+    "source": "mi cuarto es difícil",
+    "target": "my room is difficult"
+  },
+  {
+    "source": "este libro es nuevo",
+    "target": "this book is new"
+  },
+  {
+    "source": "el examen es nuevo",
+    "target": "the exam is new"
+  },
+  {
+    "source": "mi cuarto es nuevo",
+    "target": "my room is new"
+  },
+  {
+    "source": "este libro es viejo",
+    "target": "this book is old"
+  },
+  {
+    "source": "el examen es viejo",
+    "target": "the exam is old"
+  },
+  {
+    "source": "mi cuarto es viejo",
+    "target": "my room is old"
+  },
+  {
+    "source": "este libro es bonito",
+    "target": "this book is beutiful"
+  },
+  {
+    "source": "el examen es bonito",
+    "target": "the exam is beutiful"
+  },
+  {
+    "source": "mi cuarto es bonito",
+    "target": "my room is beutiful"
+  },
+  {
+    "source": "este libro es importante",
+    "target": "this book is important"
+  },
+  {
+    "source": "el examen es importante",
+    "target": "the exam is important"
+  },
+  {
+    "source": "mi cuarto es importante",
+    "target": "my room is important"
+  },
+  {
+    "source": "hoy es lunes",
+    "target": "today is monday"
+  },
+  {
+    "source": "mañana es lunes",
+    "target": "tomorrow is monday"
+  },
+  {
+    "source": "hoy es martes",
+    "target": "today is tuesday"
+  },
+  {
+    "source": "mañana es martes",
+    "target": "tomorrow is tuesday"
+  },
+  {
+    "source": "hoy es miercoles",
+    "target": "today is wednesday"
+  },
+  {
+    "source": "mañana es miercoles",
+    "target": "tomorrow is wednesday"
+  },
+  {
+    "source": "hoy es jueves",
+    "target": "today is thursday"
+  },
+  {
+    "source": "mañana es jueves",
+    "target": "tomorrow is thursday"
+  },
+  {
+    "source": "hoy es viernes",
+    "target": "today is friday"
+  },
+  {
+    "source": "mañana es viernes",
+    "target": "tomorrow is friday"
+  },
+  {
+    "source": "hoy es sabado",
+    "target": "today is saturday"
+  },
+  {
+    "source": "mañana es sabado",
+    "target": "tomorrow is saturday"
+  },
+  {
+    "source": "hoy es domingo",
+    "target": "today is sunday"
+  },
+  {
+    "source": "mañana es domingo",
+    "target": "tomorrow is sunday"
+  },
+  {
+    "source": "me levanto hoy",
+    "target": "i wake up today"
+  },
+  {
+    "source": "desayuno hoy",
+    "target": "i have breakfast today"
+  },
+  {
+    "source": "almuerzo hoy",
+    "target": "i have lunch today"
+  },
+  {
+    "source": "ceno hoy",
+    "target": "i have dinner today"
+  },
+  {
+    "source": "voy al gimnasio hoy",
+    "target": "i go to the gym today"
+  },
+  {
+    "source": "regreso a casa hoy",
+    "target": "i return home today"
+  },
+  {
+    "source": "escucho musica hoy",
+    "target": "i listen to music today"
+  },
+  {
+    "source": "veo una película hoy",
+    "target": "i watch a movie today"
+  },
+  {
+    "source": "leo un libro hoy",
+    "target": "i read a book today"
+  },
+  {
+    "source": "escribo un correo hoy",
+    "target": "i write an email today"
+  },
+  {
+    "source": "me levanto mañana",
+    "target": "i wake up tomorrow"
+  },
+  {
+    "source": "desayuno mañana",
+    "target": "i have breakfast tomorrow"
+  },
+  {
+    "source": "almuerzo mañana",
+    "target": "i have lunch tomorrow"
+  },
+  {
+    "source": "ceno mañana",
+    "target": "i have dinner tomorrow"
+  },
+  {
+    "source": "voy al gimnasio mañana",
+    "target": "i go to the gym tomorrow"
+  },
+  {
+    "source": "regreso a casa mañana",
+    "target": "i return home tomorrow"
+  },
+  {
+    "source": "escucho musica mañana",
+    "target": "i listen to music tomorrow"
+  },
+  {
+    "source": "veo una película mañana",
+    "target": "i watch a movie tomorrow"
+  },
+  {
+    "source": "leo un libro mañana",
+    "target": "i read a book tomorrow"
+  },
+  {
+    "source": "escribo un correo mañana",
+    "target": "i write an email tomorrow"
+  },
+  {
+    "source": "me levanto ayer",
+    "target": "i wake up yesterday"
+  },
+  {
+    "source": "desayuno ayer",
+    "target": "i have breakfast yesterday"
+  },
+  {
+    "source": "almuerzo ayer",
+    "target": "i have lunch yesterday"
+  },
+  {
+    "source": "ceno ayer",
+    "target": "i have dinner yesterday"
+  },
+  {
+    "source": "voy al gimnasio ayer",
+    "target": "i go to the gym yesterday"
+  },
+  {
+    "source": "regreso a casa ayer",
+    "target": "i return home yesterday"
+  },
+  {
+    "source": "escucho musica ayer",
+    "target": "i listen to music yesterday"
+  },
+  {
+    "source": "veo una película ayer",
+    "target": "i watch a movie yesterday"
+  },
+  {
+    "source": "leo un libro ayer",
+    "target": "i read a book yesterday"
+  },
+  {
+    "source": "escribo un correo ayer",
+    "target": "i write an email yesterday"
+  },
+  {
+    "source": "me levanto ahora",
+    "target": "i wake up now"
+  },
+  {
+    "source": "desayuno ahora",
+    "target": "i have breakfast now"
+  },
+  {
+    "source": "almuerzo ahora",
+    "target": "i have lunch now"
+  },
+  {
+    "source": "ceno ahora",
+    "target": "i have dinner now"
+  },
+  {
+    "source": "voy al gimnasio ahora",
+    "target": "i go to the gym now"
+  },
+  {
+    "source": "regreso a casa ahora",
+    "target": "i return home now"
+  },
+  {
+    "source": "escucho musica ahora",
+    "target": "i listen to music now"
+  },
+  {
+    "source": "veo una película ahora",
+    "target": "i watch a movie now"
+  },
+  {
+    "source": "leo un libro ahora",
+    "target": "i read a book now"
+  },
+  {
+    "source": "escribo un correo ahora",
+    "target": "i write an email now"
+  },
+  {
+    "source": "me levanto mas tarde",
+    "target": "i wake up later"
+  },
+  {
+    "source": "desayuno mas tarde",
+    "target": "i have breakfast later"
+  },
+  {
+    "source": "almuerzo mas tarde",
+    "target": "i have lunch later"
+  },
+  {
+    "source": "ceno mas tarde",
+    "target": "i have dinner later"
+  },
+  {
+    "source": "voy al gimnasio mas tarde",
+    "target": "i go to the gym later"
+  },
+  {
+    "source": "regreso a casa mas tarde",
+    "target": "i return home later"
+  },
+  {
+    "source": "escucho musica mas tarde",
+    "target": "i listen to music later"
+  },
+  {
+    "source": "veo una película mas tarde",
+    "target": "i watch a movie later"
+  },
+  {
+    "source": "leo un libro mas tarde",
+    "target": "i read a book later"
+  },
+  {
+    "source": "escribo un correo mas tarde",
+    "target": "i write an email later"
+  },
+  {
+    "source": "me levanto temprano",
+    "target": "i wake up early"
+  },
+  {
+    "source": "desayuno temprano",
+    "target": "i have breakfast early"
+  },
+  {
+    "source": "almuerzo temprano",
+    "target": "i have lunch early"
+  },
+  {
+    "source": "ceno temprano",
+    "target": "i have dinner early"
+  },
+  {
+    "source": "voy al gimnasio temprano",
+    "target": "i go to the gym early"
+  },
+  {
+    "source": "regreso a casa temprano",
+    "target": "i return home early"
+  },
+  {
+    "source": "escucho musica temprano",
+    "target": "i listen to music early"
+  },
+  {
+    "source": "veo una película temprano",
+    "target": "i watch a movie early"
+  },
+  {
+    "source": "leo un libro temprano",
+    "target": "i read a book early"
+  },
+  {
+    "source": "escribo un correo temprano",
+    "target": "i write an email early"
+  },
+  {
+    "source": "mi madre come",
+    "target": "my mother eats"
+  },
+  {
+    "source": "mi madre bebe",
+    "target": "my mother drinks"
+  },
+  {
+    "source": "mi madre lee",
+    "target": "my mother reads"
+  },
+  {
+    "source": "mi madre escribe",
+    "target": "my mother writes"
+  },
+  {
+    "source": "mi madre corre",
+    "target": "my mother runs"
+  },
+  {
+    "source": "mi madre camina",
+    "target": "my mother walks"
+  },
+  {
+    "source": "mi madre estudia",
+    "target": "my mother studies"
+  },
+  {
+    "source": "mi madre trabaja",
+    "target": "my mother works"
+  },
+  {
+    "source": "mi padre come",
+    "target": "my father eats"
+  },
+  {
+    "source": "mi padre bebe",
+    "target": "my father drinks"
+  },
+  {
+    "source": "mi padre lee",
+    "target": "my father reads"
+  },
+  {
+    "source": "mi padre escribe",
+    "target": "my father writes"
+  },
+  {
+    "source": "mi padre corre",
+    "target": "my father runs"
+  },
+  {
+    "source": "mi padre camina",
+    "target": "my father walks"
+  },
+  {
+    "source": "mi padre estudia",
+    "target": "my father studies"
+  },
+  {
+    "source": "mi padre trabaja",
+    "target": "my father works"
+  },
+  {
+    "source": "mi hermana come",
+    "target": "my sister eats"
+  },
+  {
+    "source": "mi hermana bebe",
+    "target": "my sister drinks"
+  },
+  {
+    "source": "mi hermana lee",
+    "target": "my sister reads"
+  },
+  {
+    "source": "mi hermana escribe",
+    "target": "my sister writes"
+  },
+  {
+    "source": "mi hermana corre",
+    "target": "my sister runs"
+  },
+  {
+    "source": "mi hermana camina",
+    "target": "my sister walks"
+  },
+  {
+    "source": "mi hermana estudia",
+    "target": "my sister studies"
+  },
+  {
+    "source": "mi hermana trabaja",
+    "target": "my sister works"
+  },
+  {
+    "source": "mi hermano come",
+    "target": "my brother eats"
+  },
+  {
+    "source": "mi hermano bebe",
+    "target": "my brother drinks"
+  },
+  {
+    "source": "mi hermano lee",
+    "target": "my brother reads"
+  },
+  {
+    "source": "mi hermano escribe",
+    "target": "my brother writes"
+  },
+  {
+    "source": "mi hermano corre",
+    "target": "my brother runs"
+  },
+  {
+    "source": "mi hermano camina",
+    "target": "my brother walks"
+  },
+  {
+    "source": "mi hermano estudia",
+    "target": "my brother studies"
+  },
+  {
+    "source": "mi hermano trabaja",
+    "target": "my brother works"
+  },
+  {
+    "source": "mi amigo come",
+    "target": "my friend eats"
+  },
+  {
+    "source": "mi amigo bebe",
+    "target": "my friend drinks"
+  },
+  {
+    "source": "mi amigo lee",
+    "target": "my friend reads"
+  },
+  {
+    "source": "mi amigo escribe",
+    "target": "my friend writes"
+  },
+  {
+    "source": "mi amigo corre",
+    "target": "my friend runs"
+  },
+  {
+    "source": "mi amigo camina",
+    "target": "my friend walks"
+  },
+  {
+    "source": "mi amigo estudia",
+    "target": "my friend studies"
+  },
+  {
+    "source": "mi amigo trabaja",
+    "target": "my friend works"
+  },
+  {
+    "source": "mi amiga come",
+    "target": "my friend eats"
+  },
+  {
+    "source": "mi amiga bebe",
+    "target": "my friend drinks"
+  },
+  {
+    "source": "mi amiga lee",
+    "target": "my friend reads"
+  },
+  {
+    "source": "mi amiga escribe",
+    "target": "my friend writes"
+  },
+  {
+    "source": "mi amiga corre",
+    "target": "my friend runs"
+  },
+  {
+    "source": "mi amiga camina",
+    "target": "my friend walks"
+  },
+  {
+    "source": "mi amiga estudia",
+    "target": "my friend studies"
+  },
+  {
+    "source": "mi amiga trabaja",
+    "target": "my friend works"
+  },
+  {
+    "source": "tengo uno libros",
+    "target": "i have one books"
+  },
+  {
+    "source": "veo uno perros",
+    "target": "i see one dogs"
+  },
+  {
+    "source": "compre uno manzanas",
+    "target": "i bought one apples"
+  },
+  {
+    "source": "tengo dos libros",
+    "target": "i have two books"
+  },
+  {
+    "source": "veo dos perros",
+    "target": "i see two dogs"
+  },
+  {
+    "source": "compre dos manzanas",
+    "target": "i bought two apples"
+  },
+  {
+    "source": "tengo tres libros",
+    "target": "i have three books"
+  },
+  {
+    "source": "veo tres perros",
+    "target": "i see three dogs"
+  },
+  {
+    "source": "compre tres manzanas",
+    "target": "i bought three apples"
+  },
+  {
+    "source": "tengo cuatro libros",
+    "target": "i have four books"
+  },
+  {
+    "source": "veo cuatro perros",
+    "target": "i see four dogs"
+  },
+  {
+    "source": "compre cuatro manzanas",
+    "target": "i bought four apples"
+  },
+  {
+    "source": "tengo cinco libros",
+    "target": "i have five books"
+  },
+  {
+    "source": "veo cinco perros",
+    "target": "i see five dogs"
+  },
+  {
+    "source": "compre cinco manzanas",
+    "target": "i bought five apples"
+  },
+  {
+    "source": "tengo seis libros",
+    "target": "i have six books"
+  },
+  {
+    "source": "veo seis perros",
+    "target": "i see six dogs"
+  },
+  {
+    "source": "compre seis manzanas",
+    "target": "i bought six apples"
+  },
+  {
+    "source": "tengo siete libros",
+    "target": "i have seven books"
+  },
+  {
+    "source": "veo siete perros",
+    "target": "i see seven dogs"
+  },
+  {
+    "source": "compre siete manzanas",
+    "target": "i bought seven apples"
+  },
+  {
+    "source": "tengo ocho libros",
+    "target": "i have eight books"
+  },
+  {
+    "source": "veo ocho perros",
+    "target": "i see eight dogs"
+  },
+  {
+    "source": "compre ocho manzanas",
+    "target": "i bought eight apples"
+  },
+  {
+    "source": "tengo nueve libros",
+    "target": "i have nine books"
+  },
+  {
+    "source": "veo nueve perros",
+    "target": "i see nine dogs"
+  },
+  {
+    "source": "compre nueve manzanas",
+    "target": "i bought nine apples"
+  },
+  {
+    "source": "tengo diez libros",
+    "target": "i have ten books"
+  },
+  {
+    "source": "veo diez perros",
+    "target": "i see ten dogs"
+  },
+  {
+    "source": "compre diez manzanas",
+    "target": "i bought ten apples"
+  },
+  {
+    "source": "hace calor",
+    "target": "it is hot"
+  },
+  {
+    "source": "hace frío",
+    "target": "it is cold"
+  },
+  {
+    "source": "esta lloviendo",
+    "target": "it is raining"
+  },
+  {
+    "source": "esta soleado",
+    "target": "it is sunny"
+  },
+  {
+    "source": "esta nublado",
+    "target": "it is cloudy"
+  },
+  {
+    "source": "hace viento",
+    "target": "it is windy"
+  },
+  {
+    "source": "abre el libro",
+    "target": "open the book"
+  },
+  {
+    "source": "cierra la puerta",
+    "target": "close the door"
+  },
+  {
+    "source": "enciende la luz",
+    "target": "turn on the light"
+  },
+  {
+    "source": "apaga la luz",
+    "target": "turn off the light"
+  },
+  {
+    "source": "escucha al profesor",
+    "target": "listen to the teacher"
+  },
+  {
+    "source": "escribe tu nombre",
+    "target": "write your name"
+  },
+  {
+    "source": "por favor abre la puerta",
+    "target": "please open the door"
+  },
+  {
+    "source": "por favor abre la ventana",
+    "target": "please open the window"
+  },
+  {
+    "source": "por favor abre el libro",
+    "target": "please open the book"
+  },
+  {
+    "source": "por favor abre la caja",
+    "target": "please open the box"
+  },
+  {
+    "source": "por favor abre la bolsa",
+    "target": "please open the bag"
+  },
+  {
+    "source": "por favor abre la mesa",
+    "target": "please open the table"
+  },
+  {
+    "source": "por favor cierra la puerta",
+    "target": "please close the door"
+  },
+  {
+    "source": "por favor cierra la ventana",
+    "target": "please close the window"
+  },
+  {
+    "source": "por favor cierra el libro",
+    "target": "please close the book"
+  },
+  {
+    "source": "por favor cierra la caja",
+    "target": "please close the box"
+  },
+  {
+    "source": "por favor cierra la bolsa",
+    "target": "please close the bag"
+  },
+  {
+    "source": "por favor cierra la mesa",
+    "target": "please close the table"
+  },
+  {
+    "source": "por favor trae la puerta",
+    "target": "please bring the door"
+  },
+  {
+    "source": "por favor trae la ventana",
+    "target": "please bring the window"
+  },
+  {
+    "source": "por favor trae el libro",
+    "target": "please bring the book"
+  },
+  {
+    "source": "por favor trae la caja",
+    "target": "please bring the box"
+  },
+  {
+    "source": "por favor trae la bolsa",
+    "target": "please bring the bag"
+  },
+  {
+    "source": "por favor trae la mesa",
+    "target": "please bring the table"
+  },
+  {
+    "source": "por favor mira la puerta",
+    "target": "please look at the door"
+  },
+  {
+    "source": "por favor mira la ventana",
+    "target": "please look at the window"
+  },
+  {
+    "source": "por favor mira el libro",
+    "target": "please look at the book"
+  },
+  {
+    "source": "por favor mira la caja",
+    "target": "please look at the box"
+  },
+  {
+    "source": "por favor mira la bolsa",
+    "target": "please look at the bag"
+  },
+  {
+    "source": "por favor mira la mesa",
+    "target": "please look at the table"
+  },
+  {
+    "source": "por favor escucha la puerta",
+    "target": "please listen to the door"
+  },
+  {
+    "source": "por favor escucha la ventana",
+    "target": "please listen to the window"
+  },
+  {
+    "source": "por favor escucha el libro",
+    "target": "please listen to the book"
+  },
+  {
+    "source": "por favor escucha la caja",
+    "target": "please listen to the box"
+  },
+  {
+    "source": "por favor escucha la bolsa",
+    "target": "please listen to the bag"
+  },
+  {
+    "source": "por favor escucha la mesa",
+    "target": "please listen to the table"
+  },
+  {
+    "source": "por favor espera la puerta",
+    "target": "please wait the door"
+  },
+  {
+    "source": "por favor espera la ventana",
+    "target": "please wait the window"
+  },
+  {
+    "source": "por favor espera el libro",
+    "target": "please wait the book"
+  },
+  {
+    "source": "por favor espera la caja",
+    "target": "please wait the box"
+  },
+  {
+    "source": "por favor espera la bolsa",
+    "target": "please wait the bag"
+  },
+  {
+    "source": "por favor espera la mesa",
+    "target": "please wait the table"
+  },
+  {
+    "source": "abre el archivo",
+    "target": "open the file"
+  },
+  {
+    "source": "guarda el documento",
+    "target": "save the document"
+  },
+  {
+    "source": "envía el correo",
+    "target": "send the email"
+  },
+  {
+    "source": "revisa el mensaje",
+    "target": "check the message"
+  },
+  {
+    "source": "cierra la ventana",
+    "target": "close the window"
+  },
+  {
+    "source": "enciende la computadora",
+    "target": "turn on the computer"
+  },
+  {
+    "source": "yo tomo el utobus",
+    "target": "i take the bus"
+  },
+  {
+    "source": "yo tomo el taxi",
+    "target": "i take the taxi"
+  },
+  {
+    "source": "yo tomo el tren",
+    "target": "i take the train"
+  },
+  {
+    "source": "yo tomo el avión",
+    "target": "i take the plane"
+  },
+  {
+    "source": "yo tomo el bicicleta",
+    "target": "i take the bicycle"
+  },
+  {
+    "source": "yo espero el utobus",
+    "target": "i wait for the bus"
+  },
+  {
+    "source": "yo espero el taxi",
+    "target": "i wait for the taxi"
+  },
+  {
+    "source": "yo espero el tren",
+    "target": "i wait for the train"
+  },
+  {
+    "source": "yo espero el avión",
+    "target": "i wait for the plane"
+  },
+  {
+    "source": "yo espero el bicicleta",
+    "target": "i wait for the bicycle"
+  },
+  {
+    "source": "yo pierdo el utobus",
+    "target": "i lose the bus"
+  },
+  {
+    "source": "yo pierdo el taxi",
+    "target": "i lose the taxi"
+  },
+  {
+    "source": "yo pierdo el tren",
+    "target": "i lose the train"
+  },
+  {
+    "source": "yo pierdo el avión",
+    "target": "i lose the plane"
+  },
+  {
+    "source": "yo pierdo el bicicleta",
+    "target": "i lose the bicycle"
+  },
+  {
+    "source": "yo encuentro el utobus",
+    "target": "i find the bus"
+  },
+  {
+    "source": "yo encuentro el taxi",
+    "target": "i find the taxi"
+  },
+  {
+    "source": "yo encuentro el tren",
+    "target": "i find the train"
+  },
+  {
+    "source": "yo encuentro el avión",
+    "target": "i find the plane"
+  },
+  {
+    "source": "yo encuentro el bicicleta",
+    "target": "i find the bicycle"
+  },
+  {
+    "source": "tu tomo el utobus",
+    "target": "you take the bus"
+  },
+  {
+    "source": "tu tomo el taxi",
+    "target": "you take the taxi"
+  },
+  {
+    "source": "tu tomo el tren",
+    "target": "you take the train"
+  },
+  {
+    "source": "tu tomo el avión",
+    "target": "you take the plane"
+  },
+  {
+    "source": "tu tomo el bicicleta",
+    "target": "you take the bicycle"
+  },
+  {
+    "source": "tu espero el utobus",
+    "target": "you wait for the bus"
+  },
+  {
+    "source": "tu espero el taxi",
+    "target": "you wait for the taxi"
+  },
+  {
+    "source": "tu espero el tren",
+    "target": "you wait for the train"
+  },
+  {
+    "source": "tu espero el avión",
+    "target": "you wait for the plane"
+  },
+  {
+    "source": "tu espero el bicicleta",
+    "target": "you wait for the bicycle"
+  },
+  {
+    "source": "tu pierdo el utobus",
+    "target": "you lose the bus"
+  },
+  {
+    "source": "tu pierdo el taxi",
+    "target": "you lose the taxi"
+  },
+  {
+    "source": "tu pierdo el tren",
+    "target": "you lose the train"
+  },
+  {
+    "source": "tu pierdo el avión",
+    "target": "you lose the plane"
+  },
+  {
+    "source": "tu pierdo el bicicleta",
+    "target": "you lose the bicycle"
+  },
+  {
+    "source": "tu encuentro el utobus",
+    "target": "you find the bus"
+  },
+  {
+    "source": "tu encuentro el taxi",
+    "target": "you find the taxi"
+  },
+  {
+    "source": "tu encuentro el tren",
+    "target": "you find the train"
+  },
+  {
+    "source": "tu encuentro el avión",
+    "target": "you find the plane"
+  },
+  {
+    "source": "tu encuentro el bicicleta",
+    "target": "you find the bicycle"
+  },
+  {
+    "source": "el tomo el utobus",
+    "target": "he take the bus"
+  },
+  {
+    "source": "el tomo el taxi",
+    "target": "he take the taxi"
+  },
+  {
+    "source": "el tomo el tren",
+    "target": "he take the train"
+  },
+  {
+    "source": "el tomo el avión",
+    "target": "he take the plane"
+  },
+  {
+    "source": "el tomo el bicicleta",
+    "target": "he take the bicycle"
+  },
+  {
+    "source": "el espero el utobus",
+    "target": "he wait for the bus"
+  },
+  {
+    "source": "el espero el taxi",
+    "target": "he wait for the taxi"
+  },
+  {
+    "source": "el espero el tren",
+    "target": "he wait for the train"
+  },
+  {
+    "source": "el espero el avión",
+    "target": "he wait for the plane"
+  },
+  {
+    "source": "el espero el bicicleta",
+    "target": "he wait for the bicycle"
+  },
+  {
+    "source": "el pierdo el utobus",
+    "target": "he lose the bus"
+  },
+  {
+    "source": "el pierdo el taxi",
+    "target": "he lose the taxi"
+  },
+  {
+    "source": "el pierdo el tren",
+    "target": "he lose the train"
+  },
+  {
+    "source": "el pierdo el avión",
+    "target": "he lose the plane"
+  },
+  {
+    "source": "el pierdo el bicicleta",
+    "target": "he lose the bicycle"
+  },
+  {
+    "source": "el encuentro el utobus",
+    "target": "he find the bus"
+  },
+  {
+    "source": "el encuentro el taxi",
+    "target": "he find the taxi"
+  },
+  {
+    "source": "el encuentro el tren",
+    "target": "he find the train"
+  },
+  {
+    "source": "el encuentro el avión",
+    "target": "he find the plane"
+  },
+  {
+    "source": "el encuentro el bicicleta",
+    "target": "he find the bicycle"
+  },
+  {
+    "source": "ella tomo el utobus",
+    "target": "she take the bus"
+  },
+  {
+    "source": "ella tomo el taxi",
+    "target": "she take the taxi"
+  },
+  {
+    "source": "ella tomo el tren",
+    "target": "she take the train"
+  },
+  {
+    "source": "ella tomo el avión",
+    "target": "she take the plane"
+  },
+  {
+    "source": "ella tomo el bicicleta",
+    "target": "she take the bicycle"
+  },
+  {
+    "source": "ella espero el utobus",
+    "target": "she wait for the bus"
+  },
+  {
+    "source": "ella espero el taxi",
+    "target": "she wait for the taxi"
+  },
+  {
+    "source": "ella espero el tren",
+    "target": "she wait for the train"
+  },
+  {
+    "source": "ella espero el avión",
+    "target": "she wait for the plane"
+  },
+  {
+    "source": "ella espero el bicicleta",
+    "target": "she wait for the bicycle"
+  },
+  {
+    "source": "ella pierdo el utobus",
+    "target": "she lose the bus"
+  },
+  {
+    "source": "ella pierdo el taxi",
+    "target": "she lose the taxi"
+  },
+  {
+    "source": "ella pierdo el tren",
+    "target": "she lose the train"
+  },
+  {
+    "source": "ella pierdo el avión",
+    "target": "she lose the plane"
+  },
+  {
+    "source": "ella pierdo el bicicleta",
+    "target": "she lose the bicycle"
+  },
+  {
+    "source": "ella encuentro el utobus",
+    "target": "she find the bus"
+  },
+  {
+    "source": "ella encuentro el taxi",
+    "target": "she find the taxi"
+  },
+  {
+    "source": "ella encuentro el tren",
+    "target": "she find the train"
+  },
+  {
+    "source": "ella encuentro el avión",
+    "target": "she find the plane"
+  },
+  {
+    "source": "ella encuentro el bicicleta",
+    "target": "she find the bicycle"
+  },
+  {
+    "source": "yo reviso la computadora",
+    "target": "i check the computer"
+  },
+  {
+    "source": "yo reviso el telefono",
+    "target": "i check the phone"
+  },
+  {
+    "source": "yo reviso el mensaje",
+    "target": "i check the message"
+  },
+  {
+    "source": "yo reviso la reunión",
+    "target": "i check the meeting"
+  },
+  {
+    "source": "yo reviso el proyecto",
+    "target": "i check the project"
+  },
+  {
+    "source": "yo reviso el informe",
+    "target": "i check the report"
+  },
+  {
+    "source": "yo abro la computadora",
+    "target": "i open the computer"
+  },
+  {
+    "source": "yo abro el telefono",
+    "target": "i open the phone"
+  },
+  {
+    "source": "yo abro el mensaje",
+    "target": "i open the message"
+  },
+  {
+    "source": "yo abro la reunión",
+    "target": "i open the meeting"
+  },
+  {
+    "source": "yo abro el proyecto",
+    "target": "i open the project"
+  },
+  {
+    "source": "yo abro el informe",
+    "target": "i open the report"
+  },
+  {
+    "source": "yo cierro la computadora",
+    "target": "i close the computer"
+  },
+  {
+    "source": "yo cierro el telefono",
+    "target": "i close the phone"
+  },
+  {
+    "source": "yo cierro el mensaje",
+    "target": "i close the message"
+  },
+  {
+    "source": "yo cierro la reunión",
+    "target": "i close the meeting"
+  },
+  {
+    "source": "yo cierro el proyecto",
+    "target": "i close the project"
+  },
+  {
+    "source": "yo cierro el informe",
+    "target": "i close the report"
+  },
+  {
+    "source": "yo termino la computadora",
+    "target": "i finish the computer"
+  },
+  {
+    "source": "yo termino el telefono",
+    "target": "i finish the phone"
+  },
+  {
+    "source": "yo termino el mensaje",
+    "target": "i finish the message"
+  },
+  {
+    "source": "yo termino la reunión",
+    "target": "i finish the meeting"
+  },
+  {
+    "source": "yo termino el proyecto",
+    "target": "i finish the project"
+  },
+  {
+    "source": "yo termino el informe",
+    "target": "i finish the report"
+  },
+  {
+    "source": "yo empiezo la computadora",
+    "target": "i start the computer"
+  },
+  {
+    "source": "yo empiezo el telefono",
+    "target": "i start the phone"
+  },
+  {
+    "source": "yo empiezo el mensaje",
+    "target": "i start the message"
+  },
+  {
+    "source": "yo empiezo la reunión",
+    "target": "i start the meeting"
+  },
+  {
+    "source": "yo empiezo el proyecto",
+    "target": "i start the project"
+  },
+  {
+    "source": "yo empiezo el informe",
+    "target": "i start the report"
+  },
+  {
+    "source": "yo organizo la computadora",
+    "target": "i organize the computer"
+  },
+  {
+    "source": "yo organizo el telefono",
+    "target": "i organize the phone"
+  },
+  {
+    "source": "yo organizo el mensaje",
+    "target": "i organize the message"
+  },
+  {
+    "source": "yo organizo la reunión",
+    "target": "i organize the meeting"
+  },
+  {
+    "source": "yo organizo el proyecto",
+    "target": "i organize the project"
+  },
+  {
+    "source": "yo organizo el informe",
+    "target": "i organize the report"
+  },
+  {
+    "source": "nosotros reviso la computadora",
+    "target": "we check the computer"
+  },
+  {
+    "source": "nosotros reviso el telefono",
+    "target": "we check the phone"
+  },
+  {
+    "source": "nosotros reviso el mensaje",
+    "target": "we check the message"
+  },
+  {
+    "source": "nosotros reviso la reunión",
+    "target": "we check the meeting"
+  },
+  {
+    "source": "nosotros reviso el proyecto",
+    "target": "we check the project"
+  },
+  {
+    "source": "nosotros reviso el informe",
+    "target": "we check the report"
+  },
+  {
+    "source": "nosotros abro la computadora",
+    "target": "we open the computer"
+  },
+  {
+    "source": "nosotros abro el telefono",
+    "target": "we open the phone"
+  },
+  {
+    "source": "nosotros abro el mensaje",
+    "target": "we open the message"
+  },
+  {
+    "source": "nosotros abro la reunión",
+    "target": "we open the meeting"
+  },
+  {
+    "source": "nosotros abro el proyecto",
+    "target": "we open the project"
+  },
+  {
+    "source": "nosotros abro el informe",
+    "target": "we open the report"
+  },
+  {
+    "source": "nosotros cierro la computadora",
+    "target": "we close the computer"
+  },
+  {
+    "source": "nosotros cierro el telefono",
+    "target": "we close the phone"
+  },
+  {
+    "source": "nosotros cierro el mensaje",
+    "target": "we close the message"
+  },
+  {
+    "source": "nosotros cierro la reunión",
+    "target": "we close the meeting"
+  },
+  {
+    "source": "nosotros cierro el proyecto",
+    "target": "we close the project"
+  },
+  {
+    "source": "nosotros cierro el informe",
+    "target": "we close the report"
+  },
+  {
+    "source": "nosotros termino la computadora",
+    "target": "we finish the computer"
+  },
+  {
+    "source": "nosotros termino el telefono",
+    "target": "we finish the phone"
+  },
+  {
+    "source": "nosotros termino el mensaje",
+    "target": "we finish the message"
+  },
+  {
+    "source": "nosotros termino la reunión",
+    "target": "we finish the meeting"
+  },
+  {
+    "source": "nosotros termino el proyecto",
+    "target": "we finish the project"
+  },
+  {
+    "source": "nosotros termino el informe",
+    "target": "we finish the report"
+  },
+  {
+    "source": "nosotros empiezo la computadora",
+    "target": "we start the computer"
+  },
+  {
+    "source": "nosotros empiezo el telefono",
+    "target": "we start the phone"
+  },
+  {
+    "source": "nosotros empiezo el mensaje",
+    "target": "we start the message"
+  },
+  {
+    "source": "nosotros empiezo la reunión",
+    "target": "we start the meeting"
+  },
+  {
+    "source": "nosotros empiezo el proyecto",
+    "target": "we start the project"
+  },
+  {
+    "source": "nosotros empiezo el informe",
+    "target": "we start the report"
+  },
+  {
+    "source": "nosotros organizo la computadora",
+    "target": "we organize the computer"
+  },
+  {
+    "source": "nosotros organizo el telefono",
+    "target": "we organize the phone"
+  },
+  {
+    "source": "nosotros organizo el mensaje",
+    "target": "we organize the message"
+  },
+  {
+    "source": "nosotros organizo la reunión",
+    "target": "we organize the meeting"
+  },
+  {
+    "source": "nosotros organizo el proyecto",
+    "target": "we organize the project"
+  },
+  {
+    "source": "nosotros organizo el informe",
+    "target": "we organize the report"
+  },
+  {
+    "source": "yo compro la camisa",
+    "target": "i buy the shirt"
+  },
+  {
+    "source": "yo compro el pantalón",
+    "target": "i buy the pants"
+  },
+  {
+    "source": "yo compro los zapatos",
+    "target": "i buy the shoes"
+  },
+  {
+    "source": "yo compro el libro",
+    "target": "i buy the book"
+  },
+  {
+    "source": "yo compro el cuaderno",
+    "target": "i buy the notebook"
+  },
+  {
+    "source": "yo compro la mochila",
+    "target": "i buy the backpack"
+  },
+  {
+    "source": "yo vendo la camisa",
+    "target": "i sell the shirt"
+  },
+  {
+    "source": "yo vendo el pantalón",
+    "target": "i sell the pants"
+  },
+  {
+    "source": "yo vendo los zapatos",
+    "target": "i sell the shoes"
+  },
+  {
+    "source": "yo vendo el libro",
+    "target": "i sell the book"
+  },
+  {
+    "source": "yo vendo el cuaderno",
+    "target": "i sell the notebook"
+  },
+  {
+    "source": "yo vendo la mochila",
+    "target": "i sell the backpack"
+  },
+  {
+    "source": "yo busco la camisa",
+    "target": "i look for the shirt"
+  },
+  {
+    "source": "yo busco el pantalón",
+    "target": "i look for the pants"
+  },
+  {
+    "source": "yo busco los zapatos",
+    "target": "i look for the shoes"
+  },
+  {
+    "source": "yo busco el libro",
+    "target": "i look for the book"
+  },
+  {
+    "source": "yo busco el cuaderno",
+    "target": "i look for the notebook"
+  },
+  {
+    "source": "yo busco la mochila",
+    "target": "i look for the backpack"
+  },
+  {
+    "source": "yo encuentro la camisa",
+    "target": "i find the shirt"
+  },
+  {
+    "source": "yo encuentro el pantalón",
+    "target": "i find the pants"
+  },
+  {
+    "source": "yo encuentro los zapatos",
+    "target": "i find the shoes"
+  },
+  {
+    "source": "yo encuentro el libro",
+    "target": "i find the book"
+  },
+  {
+    "source": "yo encuentro el cuaderno",
+    "target": "i find the notebook"
+  },
+  {
+    "source": "yo encuentro la mochila",
+    "target": "i find the backpack"
+  },
+  {
+    "source": "mi nombre es ana",
+    "target": "my name is ana"
+  },
+  {
+    "source": "mi nombre es juan",
+    "target": "my name is juan"
+  },
+  {
+    "source": "soy estudiante",
+    "target": "i am a student"
+  },
+  {
+    "source": "soy profesor",
+    "target": "i am a teacher"
+  },
+  {
+    "source": "soy ingeniera",
+    "target": "i am an engineer"
+  },
+  {
+    "source": "soy diseñadora",
+    "target": "i am a designer"
+  },
+  {
+    "source": "vivo en quito",
+    "target": "i live in quito"
+  },
+  {
+    "source": "vivo en guayaquil",
+    "target": "i live in guayaquil"
+  },
+  {
+    "source": "vivo en cuenca",
+    "target": "i live in cuenca"
+  },
+  {
+    "source": "hablo español",
+    "target": "i speak spanish"
+  },
+  {
+    "source": "hablo ingles",
+    "target": "i speak english"
+  },
+  {
+    "source": "aprendo rapido",
+    "target": "i learn quickly"
+  },
+  {
+    "source": "habla mas despacio",
+    "target": "speak more slowly"
+  },
+  {
+    "source": "repite por favor",
+    "target": "repeat please"
+  },
+  {
+    "source": "no entiendo",
+    "target": "i do not understand"
+  },
+  {
+    "source": "entiendo",
+    "target": "i understand"
+  },
+  {
+    "source": "eso es correcto",
+    "target": "that is correct"
+  },
+  {
+    "source": "eso es incorrecto",
+    "target": "that is incorrect"
+  },
+  {
+    "source": "feliz cumpleaños",
+    "target": "happy birthday"
+  },
+  {
+    "source": "buen viaje",
+    "target": "have a good trip"
+  },
+  {
+    "source": "nos vemos mañana",
+    "target": "see you tomorrow"
+  },
+  {
+    "source": "nos vemos pronto",
+    "target": "see you soon"
+  },
+  {
+    "source": "abre la tienda",
+    "target": "open the store"
+  },
+  {
+    "source": "cierra la tienda",
+    "target": "close the store"
+  },
+  {
+    "source": "lava los platos",
+    "target": "wash the dishes"
+  },
+  {
+    "source": "limpia tu cuarto",
+    "target": "clean your room"
+  },
+  {
+    "source": "prepara cafe",
+    "target": "make coffee"
+  },
+  {
+    "source": "llama a tu madre",
+    "target": "call your mother"
+  },
+  {
+    "source": "escucha musica",
+    "target": "listen to music"
+  },
+  {
+    "source": "mira la pantalla",
+    "target": "look at the screen"
+  },
+  {
+    "source": "guarda tu trabajo",
+    "target": "save your work"
+  }
+]
